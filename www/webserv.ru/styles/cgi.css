@@ -1,0 +1,52 @@
+p.first_form {
+	padding-right: 15em;
+	font-size: .7em;
+	text-transform: uppercase;
+}
+
+p.third_form {
+	font-size: .5em;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.reveal h2 {
+	font: small-caps bold 1.2em sans-serif;
+	text-transform: none;
+}
+
+input[type="text"] {
+	margin-left: 1em;
+	font-size: 0.6em;
+}
+
+input[type="submit"] {
+	font: small-caps bold .5em sans-serif;
+	text-transform: uppercase;
+	background-color: rgb(68, 133, 135);
+	
+}
+
+.first_form {
+	text-transform: capitalize;
+	text-align: right;
+}
+
+.second_form {
+	text-transform: capitalize;
+	text-align: center;
+}
+
+.btn {
+	font-size:2em;
+	font-weight: 700;
+	border: 2px solid rgb(14, 55, 78);
+	color: rgb(14, 55, 78);
+	background-color: rgb(14, 55, 78);
+}
+
+.btn:hover {
+	/* border: 2px dotted white; */
+	border: 2px solid rgb(22, 84, 120);
+	color: rgb(22, 84, 120);
+}

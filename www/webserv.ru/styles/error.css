@@ -1,0 +1,18 @@
+body {
+	background-color: white;
+}
+
+h1 { color: #000000; font-family: 'Raleway',sans-serif; font-size: 3em; font-weight: 800; text-align: center; text-transform: uppercase; }
+
+.code {
+	font-size: 3em;
+	margin-bottom: 0;
+}
+
+p {
+	width: 10em;
+}
+
+.description {
+	margin-top: 0;
+}

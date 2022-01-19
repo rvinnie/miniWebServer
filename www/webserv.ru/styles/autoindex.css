@@ -1,0 +1,39 @@
+h1 {
+	color: #337AB7;
+}
+
+body {
+	text-decoration: none;
+	padding-left: 5em;
+	font-size: 1.4em;
+	background-color: white;
+}
+
+a {
+	text-decoration: none;
+	color: #337AB7;
+}
+
+a:hover {
+	color: #224e75;
+}
+
+.list6b {
+    padding:0;
+    list-style: none;
+}
+.list6b li{
+	font-size: 1em;
+    padding:2px;
+}
+.list6b li:before {
+    padding-right:10px;
+    font-weight: bold;
+    color: #C0C0C0;
+    content: "\2714";
+    transition-duration: 0.5s;
+}
+.list6b li:hover:before {
+    color: #337AB7;
+    content: "\2714";
+}  
