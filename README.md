@@ -80,6 +80,13 @@ In our project, the cgi module is implemented, which processes scripts and dynam
 #### *What is CGI?*
 CGI is a standard method used to generate dynamic content on web pages. CGI stands for Common Gateway Interface and provides an interface between the HTTP server and programs generating web content. These programs are better known as CGI scripts. They are written in a scripting language.
 
+### Cookies 🍪
+The webserver also knows how to create and accept cookies. In this educational version of the project, cookies do not carry important information, but in a more serious implementation they can be replaced with something else.
+
+### Website
+To demonstrate the functionality of the web server, a small site was implemented in HTML and CSS.  
+![webserv](https://github.com/rvinnie/miniWebServer/blob/main/www/webserv.ru/images/webserv.gif)
+
 ### Contributors
 ⚡ [daniseed](https://github.com/MalinPolina) 
 ⚡ [obellado](https://github.com/obellado) 
